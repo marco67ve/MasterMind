@@ -17,11 +17,13 @@ Gradisco documentare un pezzo di storia della programmazione per offrire una vis
 - Interfaccia testuale che utilizza i caratteri estesi ASCII (Code Page 437) per disegnare la grafica
 - Controllo di input da tastiera con frecce, backspace e conferma  
 - Timer e contatore tentativi  
-- Algoritmo di gioco: implementa una logica classica per la generazione del codice segreto e per la valutazione dei tentativi calcolando i pioli bianchi e neri.
 - Classifica dei migliori punteggi con inserimento del proprio nome tramite editor di linea interno
 
-### Compatibilità
-Richiede una scheda video CGA (o superiore) che era lo standard per la grafica a colori su PC negli anni '80.
+Compatibilità: richiede una scheda video CGA (o superiore) che era lo standard per la grafica a colori su PC negli anni '80.
+
+Algoritmo di gioco: implementa una logica classica per la generazione del codice segreto e per la valutazione dei tentativi calcolando i pioli bianchi e neri.
+
+Classifica: salva i punteggi migliori in un file (MMIND.DAT) ordinandoli con un semplice algoritmo di Bubble Sort.
 
 ### Il Codice
 Il progetto include due versioni principali:
@@ -51,7 +53,6 @@ Aggiunti due script: MM-DID1QB64.BAS del 2008 grazie all'uscita di QB64 e MM-DID
 |                 |                |      | pallini e pioli visivi             |
 |                 |                |      |                                    |
 ```
-
 ## Uso
 
 - Ogni file può essere eseguito in QB64; le rel. 1985-89 girano anche in Windows XP/NT (32 bit, sia sotto command.com che cmd.exe) oppure su sistemi a 64 bit sotto DOSBox e DOSBox-X 
@@ -62,7 +63,7 @@ Pubblicazione personale di Pubblico dominio a scopo didattico e storico, per gio
 
 
 
-# Mastermind Didattico – QB 4.5 (1989)
+# Mastermind Didattico – GWBASIC (1985) e QB 4.5 (1989)
 **Simulatore logico interattivo senza ripetizioni**
 
 ## Scopo
