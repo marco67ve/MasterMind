@@ -17,13 +17,11 @@ Gradisco documentare un pezzo di storia della programmazione per offrire una vis
 - Interfaccia testuale che utilizza i caratteri estesi ASCII (Code Page 437) per disegnare la grafica
 - Controllo di input da tastiera con frecce, backspace e conferma  
 - Timer e contatore tentativi  
+- Algoritmo di gioco: implementa una logica classica per la generazione del codice segreto e per la valutazione dei tentativi calcolando i pioli bianchi e neri.
 - Classifica dei migliori punteggi con inserimento del proprio nome tramite editor di linea interno
 
-### Compatibilità: richiede una scheda video CGA (o superiore) che era lo standard per la grafica a colori su PC negli anni '80.
-
-Algoritmo di gioco: implementa una logica classica per la generazione del codice segreto e per la valutazione dei tentativi calcolando i pioli bianchi e neri.
-
-Classifica: salva i punteggi migliori in un file (MMIND.DAT) ordinandoli con un semplice algoritmo di Bubble Sort.
+### Compatibilità
+Richiede una scheda video CGA (o superiore) che era lo standard per la grafica a colori su PC negli anni '80.
 
 ### Il Codice
 Il progetto include due versioni principali:
