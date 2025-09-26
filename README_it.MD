@@ -63,7 +63,7 @@ Pubblicazione personale di Pubblico dominio a scopo didattico e storico, per gio
 
 
 
-# Mastermind Didattico – GWBASIC (1985) e QB 4.5 (1989)
+# Mastermind Didattico – QB 4.5 (1989)
 **Simulatore logico interattivo senza ripetizioni**
 
 ## Scopo
