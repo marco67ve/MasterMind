@@ -63,7 +63,7 @@ Personal publication in the Public Domain for didactic and historical purposes �
 
 ---
 
-# Mastermind Didactic – GW-BASIC (1985) and QB 4.5 (1989)  
+# Mastermind Didactic – QB 4.5 (1989)  
 **Interactive logic simulator without repetitions**
 
 ## Purpose
