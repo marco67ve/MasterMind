@@ -64,7 +64,7 @@ Pubblicazione personale di Pubblico dominio a scopo didattico e storico, per gio
 
 
 
-# Mastermind Didattico – GWBASIC (1985) e QB 4.5 (1989)
+# Mastermind Didattico – QB 4.5 (1989)
 **Simulatore logico interattivo senza ripetizioni**
 
 ## Scopo
@@ -112,7 +112,6 @@ Potenziare l'algoritmo del 1989 (scritto per PC XT/AT con SO a 16 bit) sfruttand
 
 
 
-
 # Mistermind Didattico – QB64 (2025)  
 **Simulatore logico interattivo per Mastermind con ripetizioni**
 
@@ -144,7 +143,7 @@ La versione del 2025 riprende il codice del 2008 per esplorare nuove strategie e
 
 Questa versione segna il mio ritorno alla programmazione non a oggetti, dopo la lunga esperienza con Visual Basic, per assaggiare la leggerezza e la potenza del QB64, in accordo con la *Marco da Venezia BASIC Anthology*, un archivio personale che celebra la bellezza del codice retrocomputazionale e la sua evoluzione nel tempo.
 
-## ?? File inclusi
+## File inclusi
 
 - `MM-DID2QB64.BAS` – versione didattica con grafica migliorata (motore "Bishop")
 
