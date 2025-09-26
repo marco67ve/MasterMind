@@ -38,7 +38,7 @@ Includes a separate script (`MM-DID.BAS`) that serves as a teaching tool. This s
 Two further scripts were added: `MM-DID1QB64.BAS` in 2008 thanks to the release of QB64, and `MM-DID2QB64.BAS` in 2025.  
 
 ## Included Codes
-
+```
 | Version         | Language       | Year | Description                        |
 |-----------------+----------------+------+------------------------------------|
 | MM-GWB.BAS      | GW-BASIC       | 1985 | First version of the game, with    | 
@@ -51,7 +51,7 @@ Two further scripts were added: `MM-DID1QB64.BAS` in 2008 thanks to the release 
 |                 |                |      | RGB graphics, minimax algorithm    |
 | MM-DID2QB64.BAS | QB64           | 2025 | Interactive graphical version      |
 |                 |                |      | with pegs and colored pins         |
-
+```
 ## Usage
 
 - Each file can be run in QB64.  
