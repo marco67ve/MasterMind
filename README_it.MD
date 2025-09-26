@@ -38,7 +38,7 @@ Aggiunti due script: MM-DID1QB64.BAS del 2008 grazie all'uscita di QB64 e MM-DID
 
 
 ## Codici inclusi
-
+```
 | Versione        | Linguaggio     | Anno | Descrizione                        |
 |-----------------+----------------+------+------------------------------------|
 | MM-GWB.BAS      | GWBASIC        | 1985 | Prima versione del gioco, con      | 
@@ -52,7 +52,7 @@ Aggiunti due script: MM-DID1QB64.BAS del 2008 grazie all'uscita di QB64 e MM-DID
 | MM-DID2QB64.BAS | QB64           | 2025 | Versione con grafica interattiva,  |
 |                 |                |      | pallini e pioli visivi             |
 |                 |                |      |                                    |
-
+```
 
 ## Uso
 
